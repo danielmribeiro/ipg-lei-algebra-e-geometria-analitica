@@ -63,3 +63,7 @@ Upon completion of this course, students should be able to:
 - **Additional Notes**: 
   - A mandatory oral exam for scores above 16.
   - Tests will be closed-book with restrictions on calculators and mobile phones.
+
+
+
+ For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
