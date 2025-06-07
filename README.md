@@ -52,18 +52,6 @@ Upon completion of this course, students should be able to:
 - Equations of lines and planes
 - Metric and non-metric problems
 
-## Learning Methodologies
-- The course includes both expository and interactive sessions.
-- Students are encouraged to solve exercises under the guidance of the instructor.
-- Practical application of theoretical concepts will be emphasized to reinforce learning.
-
-## Assessment Criteria
-- **Continuous Assessment**: Three written tests with a minimum score of 4 in each and a final average score of 10 or higher for approval.
-- **Final Exam**: Available in normal, recovery, and special periods, requiring a minimum score of 10 for approval.
-- **Additional Notes**: 
-  - A mandatory oral exam for scores above 16.
-  - Tests will be closed-book with restrictions on calculators and mobile phones.
-
 -----
 
  For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
